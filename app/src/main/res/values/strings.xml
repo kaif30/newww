@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- iphone_8_plus___1 strings -->
+
+    <string name="app_name">Page 1</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="login_string">Login</string>
+    <string name="username_string">username</string>
+    <string name="password_string">password</string>
+    <string name="login_ek1_string">Login</string>
+    <string name="forgot_password__string">Forgot password?</string>
+    <string name="line_1">line_1</string>
+    <string name="password">Password</string>
+    <string name="username">username</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_the_tech_world">Welcome To The Tech World!</string>
+    <string name="home">Home</string>
+</resources>

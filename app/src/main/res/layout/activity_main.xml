@@ -1,0 +1,114 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="wrap_content" >
+    <!--
+    /*
+     *	This content is generated from the API File Info.
+     *	(Alt+Shift+Ctrl+I).
+     *
+     *	@desc
+     *	@file 		iphone_8_plus___1
+     *	@date 		Friday 05th of January 2024 08:47:20 PM
+     *	@title 		Page 1
+     *	@author
+     *	@keywords
+     *	@generator 	Export Kit v1.3.figma
+     *
+     */
+    -->
+    <ScrollView android:id="@+id/iphone_8_plus___1"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout android:id="@+id/content_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+
+
+            <RelativeLayout android:id="@+id/page_iphone_8_plus___1_ek1"
+                android:layout_marginTop="0dp"
+                android:layout_marginStart="0dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg"
+                >
+
+
+                <View
+                    android:id="@+id/rectangle_3"
+                    android:layout_width="351dp"
+                    android:layout_height="300dp"
+                    android:layout_marginStart="30dp"
+                    android:layout_marginTop="368dp"
+                    android:alpha="0.60000002384186"
+                    android:background="@drawable/rectangle_3_shape" />
+
+                <TextView android:id="@+id/login"
+                    android:textStyle="bold"
+                    android:textSize="48sp"
+                    android:textColor="@color/login_color"
+                    android:layout_marginStart="137dp"
+                    android:layout_marginTop="261dp"
+                    android:layout_width="173.8dp"
+                    android:layout_height="80.8dp"
+                    android:text="@string/login_string"
+                    />
+
+                <ImageView android:id="@+id/line_1"
+                    android:src="@drawable/line_1"
+                    android:contentDescription="@string/line_1"
+                    android:layout_marginStart="140dp"
+                    android:layout_marginTop="324dp"
+                    android:layout_width="116dp"
+                    android:layout_height="5dp" />
+
+
+                <EditText
+                    android:id="@+id/username"
+                    android:layout_width="306.4dp"
+                    android:layout_height="46.4dp"
+                    android:layout_marginStart="55dp"
+                    android:layout_marginTop="417dp"
+                    android:hint="@string/username"
+                    android:textColor="@color/username_color"
+                    android:textSize="24sp" />
+
+                <EditText android:id="@+id/password"
+                    android:textSize="24sp"
+                    android:textColor="@color/username_color"
+                    android:layout_marginLeft="55dp"
+                    android:layout_marginTop="490dp"
+                    android:layout_width="306.4dp"
+                    android:layout_height="46.4dp"
+                    android:hint="@string/password"
+                    android:inputType="textPassword"
+                    />
+
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/login_ek1"
+                    android:layout_width="190dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="591dp"
+                    android:backgroundTint="@color/rectangle_3_color"
+                    android:text="@string/login_ek1_string"
+                    android:textColor="@color/_bg__iphone_8_plus___1_ek2_color"
+                    android:textSize="40sp"
+                    android:textStyle="bold" />
+
+                <TextView android:id="@+id/forgot_password_"
+                    android:textSize="15sp"
+                    android:textColor="@color/rectangle_3_color"
+                    android:layout_marginStart="58dp"
+                    android:layout_marginTop="528dp"
+                    android:layout_width="166.5dp"
+                    android:layout_height="24.5dp"
+                    android:text="@string/forgot_password__string"
+                    />
+
+            </RelativeLayout>
+        </RelativeLayout>
+
+    </ScrollView>
+</HorizontalScrollView>
